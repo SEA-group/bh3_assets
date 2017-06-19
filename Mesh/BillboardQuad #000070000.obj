@@ -1,0 +1,18 @@
+# 
+# Wavefront OBJ file
+# Created with Kaydara FBX
+# 
+mtllib billboardquad #000070000.mtl
+
+g BillboardQuad
+v 0.000000 0.000000 0.000000
+v 0.000000 0.000000 0.000000
+v 0.000000 0.000000 0.000000
+v 0.000000 0.000000 0.000000
+vt 0.000000 0.000000
+vt 1.000000 0.000000
+vt 0.000000 1.000000
+vt 1.000000 1.000000
+usemtl material
+f 1/0 2/0 3/0
+f 2/0 4/0 3/0

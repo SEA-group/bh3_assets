@@ -1,0 +1,18 @@
+# 
+# Wavefront OBJ file
+# Created with Kaydara FBX
+# 
+mtllib perpstage_cave_lake09.mtl
+
+g PerpStage_Cave_lake09
+v 79.111359 -0.091152 36.523067
+v 87.021133 -0.091152 32.036427
+v 83.816422 -0.091152 26.386633
+v 75.906647 -0.091152 30.873274
+vt 0.466079 0.453195
+vt 0.466079 0.547321
+vt 0.533311 0.547321
+vt 0.533311 0.453195
+usemtl material
+f 1/0 2/0 3/0
+f 1/0 3/0 4/0

@@ -1,0 +1,183 @@
+{
+    "Name": "Sakura_Static02",
+    "Position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "Boundary": {
+        "center": {
+            "x": 49.29181,
+            "y": 319.6239,
+            "z": 72.20197
+        },
+        "size": {
+            "x": 1437.126,
+            "y": 861.446,
+            "z": 1441.243
+        }
+    },
+    "ItemCount": 5,
+    "ItemList": [
+        {
+            "GoName": "PerpStage_Memory_TempleAM",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/PerpStage_Memory_TempleAM",
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": 49.29181,
+                    "y": 319.6239,
+                    "z": 72.20197
+                },
+                "size": {
+                    "x": 1437.126,
+                    "y": 861.446,
+                    "z": 1441.243
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_SakuraAM",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/PerpStage_Memory_SakuraAM",
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": 69.78886,
+                    "y": 2.42701,
+                    "z": 99.64364
+                },
+                "size": {
+                    "x": 270.9222,
+                    "y": 38.45541,
+                    "z": 231.7738
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Tree01AM",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/PerpStage_Memory_Sakura_Tree01AM",
+            "Position": {
+                "x": -0.01067352,
+                "y": 0.0,
+                "z": 0.01726532
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": 0.5183182,
+                    "y": 7.330469,
+                    "z": 74.61253
+                },
+                "size": {
+                    "x": 124.5538,
+                    "y": 28.37685,
+                    "z": 149.1905
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_BambooAM",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/PerpStage_Memory_BambooAM",
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -150.0,
+                    "y": 30.34965,
+                    "z": 8.933289
+                },
+                "size": {
+                    "x": 300.0,
+                    "y": 94.3007,
+                    "z": 441.6166
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_RiverAM",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/PerpStage_Memory_RiverAM",
+            "Position": {
+                "x": 73.51269,
+                "y": 9.073455,
+                "z": 7.487556
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "Scale": {
+                "x": 27020.53,
+                "y": 10074.48,
+                "z": 2068.471
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": 89.03197,
+                    "y": -3.134958,
+                    "z": 100.5471
+                },
+                "size": {
+                    "x": 334.4132,
+                    "y": 25.9683,
+                    "z": 255.1513
+                }
+            }
+        }
+    ]
+}

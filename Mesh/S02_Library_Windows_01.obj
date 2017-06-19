@@ -1,0 +1,18 @@
+# 
+# Wavefront OBJ file
+# Created with Kaydara FBX
+# 
+mtllib s02_library_windows_01.mtl
+
+g S02_Library_Windows_01
+v -2.394900 2.168200 52.540195
+v -2.394900 24.698599 52.540195
+v 2.387800 24.698599 52.540195
+v 2.387800 2.168200 52.540195
+vt 1.279138 0.284596
+vt -0.157537 0.284595
+vt -0.157537 0.631934
+vt 1.279138 0.631934
+usemtl material
+f 1/0 2/0 3/0
+f 1/0 3/0 4/0

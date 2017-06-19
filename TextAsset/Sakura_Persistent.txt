@@ -1,0 +1,54 @@
+{
+    "Name": "Sakura_Persistent",
+    "Position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "Boundary": {
+        "center": {
+            "x": 46.45523,
+            "y": 115.2177,
+            "z": 4.945923
+        },
+        "size": {
+            "x": 734.8205,
+            "y": 346.5491,
+            "z": 569.9083
+        }
+    },
+    "ItemCount": 1,
+    "ItemList": [
+        {
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/PerpStage_Memory_Sakura_Mini",
+            "Position": {
+                "x": -95.00002,
+                "y": -2.552987,
+                "z": -76.20279
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": 46.45523,
+                    "y": 115.2177,
+                    "z": 4.945923
+                },
+                "size": {
+                    "x": 734.8205,
+                    "y": 346.5491,
+                    "z": 569.9083
+                }
+            }
+        },
+    ]
+}

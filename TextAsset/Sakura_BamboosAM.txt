@@ -1,0 +1,5623 @@
+{
+    "Name": "PerpStage_Memory_Sakura_Bamboo",
+    "Position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "Boundary": {
+        "center": {
+            "x": -97.81155,
+            "y": 24.50064,
+            "z": 60.44476
+        },
+        "size": {
+            "x": 235.2836,
+            "y": 66.39682,
+            "z": 249.3255
+        }
+    },
+    "ItemCount": 175,
+    "ItemList": [
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_Group059",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_Group059",
+            "Position": {
+                "x": -82.38383,
+                "y": 36.10138,
+                "z": -36.72507
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.2668529,
+                "z": 0.0,
+                "w": 0.9637372
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -83.43935,
+                    "y": 42.21591,
+                    "z": -35.51498
+                },
+                "size": {
+                    "x": 19.60144,
+                    "y": 18.117,
+                    "z": 19.8091
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_Group058",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_Group058",
+            "Position": {
+                "x": -80.76251,
+                "y": 14.2946,
+                "z": -13.74376
+            },
+            "Rotation": {
+                "x": 3.337031E-17,
+                "y": 0.9249842,
+                "z": -3.337031E-17,
+                "w": -0.3800057
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -79.8106,
+                    "y": 21.84927,
+                    "z": -15.04161
+                },
+                "size": {
+                    "x": 17.46968,
+                    "y": 17.80061,
+                    "z": 22.01813
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_Group057",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_Group057",
+            "Position": {
+                "x": -160.9531,
+                "y": 4.278629,
+                "z": 81.07862
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.5,
+                "z": 0.0,
+                "w": 0.8660254
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -161.7193,
+                    "y": 14.33207,
+                    "z": 82.3869
+                },
+                "size": {
+                    "x": 13.92694,
+                    "y": 20.10688,
+                    "z": 22.99817
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_Group056",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_Group056",
+            "Position": {
+                "x": -29.97544,
+                "y": 7.964924,
+                "z": 75.29932
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.7070435,
+                "z": 0.0,
+                "w": 0.70717
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -29.20311,
+                    "y": 16.2669,
+                    "z": 76.36414
+                },
+                "size": {
+                    "x": 10.96909,
+                    "y": 17.20638,
+                    "z": 20.22443
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_Group055",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_Group055",
+            "Position": {
+                "x": -19.04466,
+                "y": 7.964924,
+                "z": 85.18356
+            },
+            "Rotation": {
+                "x": 7.107631E-17,
+                "y": 0.9843086,
+                "z": -7.107631E-17,
+                "w": 0.1764556
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -17.77794,
+                    "y": 15.44139,
+                    "z": 85.41527
+                },
+                "size": {
+                    "x": 22.77384,
+                    "y": 16.83023,
+                    "z": 12.242
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_Group054",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_Group054",
+            "Position": {
+                "x": -10.03734,
+                "y": 7.964924,
+                "z": 62.48373
+            },
+            "Rotation": {
+                "x": -1.867027E-19,
+                "y": -0.7086297,
+                "z": 1.867027E-19,
+                "w": 0.7055806
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -10.80607,
+                    "y": 15.83926,
+                    "z": 61.41574
+                },
+                "size": {
+                    "x": 10.94811,
+                    "y": 16.67953,
+                    "z": 20.26959
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_Group053",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_Group053",
+            "Position": {
+                "x": -1.363303,
+                "y": 7.513028,
+                "z": 75.48683
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": -0.4014624,
+                "z": 0.0,
+                "w": 0.9158755
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -2.652859,
+                    "y": 15.43305,
+                    "z": 74.51617
+                },
+                "size": {
+                    "x": 21.77098,
+                    "y": 16.61925,
+                    "z": 17.8475
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_Group052",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_Group052",
+            "Position": {
+                "x": 14.34249,
+                "y": 7.312553,
+                "z": 88.42667
+            },
+            "Rotation": {
+                "x": -1.741479E-19,
+                "y": -0.7085274,
+                "z": 1.741479E-19,
+                "w": 0.7056834
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": 13.5735,
+                    "y": 13.86271,
+                    "z": 87.35889
+                },
+                "size": {
+                    "x": 10.94958,
+                    "y": 17.2971,
+                    "z": 20.26643
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_Group051",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_Group051",
+            "Position": {
+                "x": 13.80649,
+                "y": 1.099152,
+                "z": 102.4701
+            },
+            "Rotation": {
+                "x": -1.741479E-19,
+                "y": -0.7085274,
+                "z": 1.741479E-19,
+                "w": 0.7056834
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": 13.03751,
+                    "y": 9.592592,
+                    "z": 101.4023
+                },
+                "size": {
+                    "x": 10.94958,
+                    "y": 19.82473,
+                    "z": 20.26645
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_Group050",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_Group050",
+            "Position": {
+                "x": -99.10552,
+                "y": 1.877892,
+                "z": 120.007
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": -0.399697,
+                "z": 0.0,
+                "w": 0.9166473
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -101.6175,
+                    "y": 9.082342,
+                    "z": 119.612
+                },
+                "size": {
+                    "x": 19.35667,
+                    "y": 17.73539,
+                    "z": 18.95436
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_Group049",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_Group049",
+            "Position": {
+                "x": -112.5051,
+                "y": 0.8744677,
+                "z": 114.4426
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": -0.1102804,
+                "z": 0.0,
+                "w": 0.9939005
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -113.7133,
+                    "y": 9.390944,
+                    "z": 114.5765
+                },
+                "size": {
+                    "x": 22.13538,
+                    "y": 17.11818,
+                    "z": 11.48349
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_Group048",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_Group048",
+            "Position": {
+                "x": -126.4249,
+                "y": 4.964007,
+                "z": 109.6619
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": -0.3757204,
+                "z": 0.0,
+                "w": 0.9267331
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -127.7269,
+                    "y": 11.50207,
+                    "z": 108.7217
+                },
+                "size": {
+                    "x": 22.15236,
+                    "y": 17.97996,
+                    "z": 17.23468
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_Group047",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_Group047",
+            "Position": {
+                "x": -138.4762,
+                "y": 7.031279,
+                "z": 98.03472
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": -0.4138084,
+                "z": 0.0,
+                "w": 0.910364
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -139.7583,
+                    "y": 14.50444,
+                    "z": 97.05043
+                },
+                "size": {
+                    "x": 21.56192,
+                    "y": 16.85496,
+                    "z": 18.12418
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_Group046",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_Group046",
+            "Position": {
+                "x": -145.3055,
+                "y": 8.880194,
+                "z": 85.18094
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": -0.4064633,
+                "z": 0.0,
+                "w": 0.9136671
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -146.5921,
+                    "y": 16.66043,
+                    "z": 84.20468
+                },
+                "size": {
+                    "x": 21.68839,
+                    "y": 17.0774,
+                    "z": 17.96094
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_Group045",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_Group045",
+            "Position": {
+                "x": -155.537,
+                "y": 8.853591,
+                "z": 83.38335
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.5262077,
+                "z": 0.0,
+                "w": 0.850356
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -156.1321,
+                    "y": 16.98441,
+                    "z": 84.68085
+                },
+                "size": {
+                    "x": 13.20987,
+                    "y": 16.44632,
+                    "z": 22.99258
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_Group044",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_Group044",
+            "Position": {
+                "x": -161.1711,
+                "y": 8.823863,
+                "z": 97.27714
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.5262077,
+                "z": 0.0,
+                "w": 0.850356
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -161.7661,
+                    "y": 16.30647,
+                    "z": 98.57463
+                },
+                "size": {
+                    "x": 13.20987,
+                    "y": 16.89739,
+                    "z": 22.99258
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_Group043",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_Group043",
+            "Position": {
+                "x": -169.3635,
+                "y": 6.433652,
+                "z": 110.1309
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.5262077,
+                "z": 0.0,
+                "w": 0.850356
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -169.9585,
+                    "y": 15.21022,
+                    "z": 111.4284
+                },
+                "size": {
+                    "x": 13.20987,
+                    "y": 17.55313,
+                    "z": 22.99258
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_Group042",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_Group042",
+            "Position": {
+                "x": -176.7607,
+                "y": 4.272648,
+                "z": 125.2509
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.4666455,
+                "z": 0.0,
+                "w": 0.8844445
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -177.5903,
+                    "y": 12.86871,
+                    "z": 126.5658
+                },
+                "size": {
+                    "x": 15.04065,
+                    "y": 17.62331,
+                    "z": 22.8849
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_Group041",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_Group041",
+            "Position": {
+                "x": -182.4114,
+                "y": 1.94062,
+                "z": 141.1319
+            },
+            "Rotation": {
+                "x": 8.63054E-17,
+                "y": 0.7625788,
+                "z": -8.63054E-17,
+                "w": 0.6468953
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -181.4756,
+                    "y": 9.943216,
+                    "z": 142.2274
+                },
+                "size": {
+                    "x": 14.12051,
+                    "y": 16.69494,
+                    "z": 20.66797
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_Group040",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_Group040",
+            "Position": {
+                "x": -174.2722,
+                "y": 0.8352676,
+                "z": 152.7979
+            },
+            "Rotation": {
+                "x": 6.813448E-17,
+                "y": 0.9927813,
+                "z": -6.813448E-17,
+                "w": 0.1199392
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -173.0542,
+                    "y": 9.128127,
+                    "z": 152.7171
+                },
+                "size": {
+                    "x": 22.25314,
+                    "y": 16.67302,
+                    "z": 11.60687
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_Group039",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_Group039",
+            "Position": {
+                "x": -158.3997,
+                "y": 0.5017663,
+                "z": 155.3897
+            },
+            "Rotation": {
+                "x": 6.256408E-17,
+                "y": 0.9997582,
+                "z": -6.256408E-17,
+                "w": 0.02199074
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -157.3021,
+                    "y": 8.708175,
+                    "z": 154.6563
+                },
+                "size": {
+                    "x": 20.68527,
+                    "y": 16.47448,
+                    "z": 10.73724
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_Group038",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_Group038",
+            "Position": {
+                "x": -141.711,
+                "y": 0.5232097,
+                "z": 156.1334
+            },
+            "Rotation": {
+                "x": 6.059594E-17,
+                "y": 0.9999465,
+                "z": -6.059594E-17,
+                "w": -0.01033983
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -140.6408,
+                    "y": 8.750783,
+                    "z": 155.339
+                },
+                "size": {
+                    "x": 20.30896,
+                    "y": 16.51868,
+                    "z": 11.3858
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_Group037",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_Group037",
+            "Position": {
+                "x": -122.3708,
+                "y": -0.9491217,
+                "z": 154.272
+            },
+            "Rotation": {
+                "x": 6.059594E-17,
+                "y": 0.9999465,
+                "z": -6.059594E-17,
+                "w": -0.01033983
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -122.0623,
+                    "y": 7.43888,
+                    "z": 153.1276
+                },
+                "size": {
+                    "x": 18.78572,
+                    "y": 17.11831,
+                    "z": 12.17166
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_Group036",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_Group036",
+            "Position": {
+                "x": -113.468,
+                "y": 0.08391242,
+                "z": 144.4044
+            },
+            "Rotation": {
+                "x": -1.910165E-17,
+                "y": -0.8456661,
+                "z": 1.910165E-17,
+                "w": 0.5337125
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -112.923,
+                    "y": 8.380012,
+                    "z": 143.3284
+                },
+                "size": {
+                    "x": 12.99274,
+                    "y": 16.66999,
+                    "z": 23.40985
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_Group035",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_Group035",
+            "Position": {
+                "x": -104.5907,
+                "y": -0.04493027,
+                "z": 131.5508
+            },
+            "Rotation": {
+                "x": 2.915007E-17,
+                "y": 0.9038681,
+                "z": -2.915007E-17,
+                "w": -0.4278113
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -103.7015,
+                    "y": 8.256248,
+                    "z": 130.2377
+                },
+                "size": {
+                    "x": 16.21683,
+                    "y": 16.62738,
+                    "z": 22.59393
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_Group034",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_Group034",
+            "Position": {
+                "x": -86.97033,
+                "y": -4.096417,
+                "z": 168.4609
+            },
+            "Rotation": {
+                "x": -1.359191E-17,
+                "y": -0.8093287,
+                "z": 1.359191E-17,
+                "w": 0.587356
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -86.84659,
+                    "y": 3.852191,
+                    "z": 167.2092
+                },
+                "size": {
+                    "x": 12.03998,
+                    "y": 16.9026,
+                    "z": 22.62708
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_Group033",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_Group033",
+            "Position": {
+                "x": -85.65926,
+                "y": -3.541315,
+                "z": 153.6247
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": -0.5318115,
+                "z": 0.0,
+                "w": 0.8468628
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -86.81751,
+                    "y": 4.878034,
+                    "z": 152.5454
+                },
+                "size": {
+                    "x": 18.66484,
+                    "y": 16.94455,
+                    "z": 20.12296
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_Group032",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_Group032",
+            "Position": {
+                "x": -96.4519,
+                "y": -2.830147,
+                "z": 157.4713
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.4889709,
+                "z": 0.0,
+                "w": 0.8723001
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -97.24376,
+                    "y": 5.32631,
+                    "z": 158.7826
+                },
+                "size": {
+                    "x": 14.2991,
+                    "y": 16.6574,
+                    "z": 22.97528
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_Group031",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_Group031",
+            "Position": {
+                "x": -106.0869,
+                "y": -3.086766,
+                "z": 170.2342
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.2216965,
+                "z": 0.0,
+                "w": 0.9751157
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -107.1666,
+                    "y": 4.897392,
+                    "z": 171.391
+                },
+                "size": {
+                    "x": 20.13358,
+                    "y": 16.98142,
+                    "z": 18.63501
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_Group030",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_Group030",
+            "Position": {
+                "x": -117.8314,
+                "y": -1.131506,
+                "z": 172.7573
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0324806,
+                "z": 0.0,
+                "w": 0.9994724
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -118.9119,
+                    "y": 5.108246,
+                    "z": 173.5973
+                },
+                "size": {
+                    "x": 20.46498,
+                    "y": 17.05385,
+                    "z": 12.25983
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_Group029",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_Group029",
+            "Position": {
+                "x": -131.7814,
+                "y": -0.2095512,
+                "z": 174.2229
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": -0.004316419,
+                "z": 0.0,
+                "w": 0.9999907
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -132.8528,
+                    "y": 7.734196,
+                    "z": 174.9879
+                },
+                "size": {
+                    "x": 20.31641,
+                    "y": 16.58115,
+                    "z": 10.92599
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_Group028",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_Group028",
+            "Position": {
+                "x": -156.2215,
+                "y": -0.1884301,
+                "z": 174.5292
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": -0.004316419,
+                "z": 0.0,
+                "w": 0.9999907
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -157.2928,
+                    "y": 8.024567,
+                    "z": 175.2942
+                },
+                "size": {
+                    "x": 20.31644,
+                    "y": 16.49007,
+                    "z": 10.92603
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_Group027",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_Group027",
+            "Position": {
+                "x": -172.5137,
+                "y": -0.05459181,
+                "z": 173.6484
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.01192195,
+                "z": 0.0,
+                "w": 0.999929
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -173.5847,
+                    "y": 8.126842,
+                    "z": 174.446
+                },
+                "size": {
+                    "x": 20.32141,
+                    "y": 16.42231,
+                    "z": 11.44904
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_Group026",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_Group026",
+            "Position": {
+                "x": -194.6941,
+                "y": 0.03314466,
+                "z": 165.5478
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": -0.3894732,
+                "z": 0.0,
+                "w": 0.9210379
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -195.99,
+                    "y": 8.000665,
+                    "z": 164.591
+                },
+                "size": {
+                    "x": 21.9577,
+                    "y": 16.43126,
+                    "z": 17.56799
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_Group025",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_Group025",
+            "Position": {
+                "x": -202.4303,
+                "y": 0.7981251,
+                "z": 151.6905
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": -0.6198958,
+                "z": 0.0,
+                "w": 0.7846842
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -203.4283,
+                    "y": 8.42158,
+                    "z": 150.5907
+                },
+                "size": {
+                    "x": 15.35272,
+                    "y": 16.44207,
+                    "z": 20.68991
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_Group024",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_Group024",
+            "Position": {
+                "x": -204.0682,
+                "y": 2.926803,
+                "z": 130.07
+            },
+            "Rotation": {
+                "x": -3.224551E-18,
+                "y": -0.7329468,
+                "z": 3.224551E-18,
+                "w": 0.6802859
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -204.7232,
+                    "y": 10.51889,
+                    "z": 128.9508
+                },
+                "size": {
+                    "x": 10.66479,
+                    "y": 17.15244,
+                    "z": 20.98282
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_Group023",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_Group023",
+            "Position": {
+                "x": -199.0789,
+                "y": 6.941678,
+                "z": 113.8316
+            },
+            "Rotation": {
+                "x": -1.830003E-17,
+                "y": -0.8405681,
+                "z": 1.830003E-17,
+                "w": 0.541706
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -198.5877,
+                    "y": 14.2068,
+                    "z": 112.5429
+                },
+                "size": {
+                    "x": 12.75558,
+                    "y": 18.13872,
+                    "z": 22.94803
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_Group022",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_Group022",
+            "Position": {
+                "x": -191.2392,
+                "y": 7.656927,
+                "z": 98.75656
+            },
+            "Rotation": {
+                "x": -1.969404E-17,
+                "y": -0.8493915,
+                "z": 1.969404E-17,
+                "w": 0.5277634
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -190.6545,
+                    "y": 15.73362,
+                    "z": 97.45985
+                },
+                "size": {
+                    "x": 13.16528,
+                    "y": 16.77645,
+                    "z": 22.98953
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_Group021",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_Group021",
+            "Position": {
+                "x": -180.9095,
+                "y": 10.04941,
+                "z": 77.835
+            },
+            "Rotation": {
+                "x": -1.816244E-17,
+                "y": -0.8396866,
+                "z": 1.816244E-17,
+                "w": 0.5430714
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -180.4275,
+                    "y": 17.59406,
+                    "z": 76.54716
+                },
+                "size": {
+                    "x": 12.71448,
+                    "y": 17.51323,
+                    "z": 22.94261
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_Group020",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_Group020",
+            "Position": {
+                "x": -177.3955,
+                "y": 10.99733,
+                "z": 54.88968
+            },
+            "Rotation": {
+                "x": -6.280032E-19,
+                "y": -0.7122162,
+                "z": 6.280032E-19,
+                "w": 0.7019601
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -178.1552,
+                    "y": 19.34661,
+                    "z": 53.81392
+                },
+                "size": {
+                    "x": 10.89557,
+                    "y": 16.78021,
+                    "z": 20.37945
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_Group019",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_Group019",
+            "Position": {
+                "x": -177.6876,
+                "y": 13.43847,
+                "z": 35.44072
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": -0.6978771,
+                "z": 0.0,
+                "w": 0.7162175
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -178.4875,
+                    "y": 20.31992,
+                    "z": 34.36922
+                },
+                "size": {
+                    "x": 11.49078,
+                    "y": 17.65285,
+                    "z": 20.32957
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_Group018",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_Group018",
+            "Position": {
+                "x": -176.998,
+                "y": 22.11666,
+                "z": 9.98735
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": -0.7041552,
+                "z": 0.0,
+                "w": 0.7100462
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -177.7793,
+                    "y": 29.64201,
+                    "z": 8.920403
+                },
+                "size": {
+                    "x": 11.13806,
+                    "y": 17.79393,
+                    "z": 20.25836
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_Group017",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_Group017",
+            "Position": {
+                "x": -173.7704,
+                "y": 25.09791,
+                "z": -5.319841
+            },
+            "Rotation": {
+                "x": -1.768029E-17,
+                "y": -0.8365823,
+                "z": 1.768029E-17,
+                "w": 0.5478413
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -173.3349,
+                    "y": 31.48454,
+                    "z": -6.604549
+                },
+                "size": {
+                    "x": 12.59769,
+                    "y": 18.18169,
+                    "z": 22.92164
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_Group016",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_Group016",
+            "Position": {
+                "x": -165.4792,
+                "y": 30.2688,
+                "z": -20.5721
+            },
+            "Rotation": {
+                "x": -1.863047E-17,
+                "y": -0.8426774,
+                "z": 1.863047E-17,
+                "w": 0.5384188
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -165.221,
+                    "y": 36.90136,
+                    "z": -21.86283
+                },
+                "size": {
+                    "x": 13.36426,
+                    "y": 18.51817,
+                    "z": 22.96012
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_Group015",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_Group015",
+            "Position": {
+                "x": -150.8615,
+                "y": 32.16534,
+                "z": -33.85547
+            },
+            "Rotation": {
+                "x": 4.728169E-17,
+                "y": 0.9784853,
+                "z": -4.728169E-17,
+                "w": -0.2063166
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -149.7756,
+                    "y": 40.56451,
+                    "z": -34.99206
+                },
+                "size": {
+                    "x": 20.2742,
+                    "y": 16.88428,
+                    "z": 18.20102
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_Group014",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_Group014",
+            "Position": {
+                "x": -134.233,
+                "y": 32.29712,
+                "z": -38.05796
+            },
+            "Rotation": {
+                "x": 5.694512E-17,
+                "y": 0.9977044,
+                "z": -5.694512E-17,
+                "w": -0.06772001
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -133.1407,
+                    "y": 40.92297,
+                    "z": -38.96724
+                },
+                "size": {
+                    "x": 20.63049,
+                    "y": 17.25169,
+                    "z": 13.60202
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_Group013",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_Group013",
+            "Position": {
+                "x": -119.7635,
+                "y": 36.79772,
+                "z": -44.58858
+            },
+            "Rotation": {
+                "x": 3.855323E-17,
+                "y": 0.947973,
+                "z": -3.855323E-17,
+                "w": -0.318351
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -118.7475,
+                    "y": 43.6669,
+                    "z": -45.8471
+                },
+                "size": {
+                    "x": 18.77443,
+                    "y": 18.21653,
+                    "z": 20.95224
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_Group012",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_Group012",
+            "Position": {
+                "x": -92.41296,
+                "y": 14.2946,
+                "z": -3.918211
+            },
+            "Rotation": {
+                "x": 3.556948E-17,
+                "y": 0.9351488,
+                "z": -3.556948E-17,
+                "w": -0.3542551
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -91.43199,
+                    "y": 20.31677,
+                    "z": -5.202224
+                },
+                "size": {
+                    "x": 18.05679,
+                    "y": 17.87756,
+                    "z": 21.61525
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_Group011",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_Group011",
+            "Position": {
+                "x": -98.02235,
+                "y": 10.91892,
+                "z": 10.19059
+            },
+            "Rotation": {
+                "x": -7.106683E-18,
+                "y": -0.762752,
+                "z": 7.106683E-18,
+                "w": 0.6466911
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -98.31093,
+                    "y": 18.31059,
+                    "z": 9.013885
+                },
+                "size": {
+                    "x": 11.09921,
+                    "y": 17.42136,
+                    "z": 21.74456
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_Group010",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_Group010",
+            "Position": {
+                "x": -110.8003,
+                "y": 8.082795,
+                "z": 29.9898
+            },
+            "Rotation": {
+                "x": 3.687985E-17,
+                "y": 0.9409207,
+                "z": -3.687985E-17,
+                "w": -0.338627
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -109.8033,
+                    "y": 16.623,
+                    "z": 28.71602
+                },
+                "size": {
+                    "x": 18.38354,
+                    "y": 17.08041,
+                    "z": 21.34079
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_Group09",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_Group09",
+            "Position": {
+                "x": -126.0705,
+                "y": 8.117126,
+                "z": 33.90435
+            },
+            "Rotation": {
+                "x": 6.040269E-17,
+                "y": 0.9999095,
+                "z": -6.040269E-17,
+                "w": -0.01345875
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -124.9987,
+                    "y": 16.50572,
+                    "z": 33.10348
+                },
+                "size": {
+                    "x": 20.33334,
+                    "y": 17.17404,
+                    "z": 11.51031
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_Group08",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_Group08",
+            "Position": {
+                "x": -149.4772,
+                "y": 14.62688,
+                "z": 32.23426
+            },
+            "Rotation": {
+                "x": 6.792293E-17,
+                "y": 0.9932471,
+                "z": -6.792293E-17,
+                "w": 0.1160185
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -148.2631,
+                    "y": 21.77903,
+                    "z": 32.13189
+                },
+                "size": {
+                    "x": 22.20633,
+                    "y": 17.12459,
+                    "z": 11.5573
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_Group07",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_Group07",
+            "Position": {
+                "x": -159.7869,
+                "y": 16.33069,
+                "z": 29.05808
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.7014091,
+                "z": 0.0,
+                "w": 0.7127589
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -159.0285,
+                    "y": 20.53132,
+                    "z": 30.13502
+                },
+                "size": {
+                    "x": 10.88748,
+                    "y": 19.53143,
+                    "z": 20.39594
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_Group06",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_Group06",
+            "Position": {
+                "x": -159.786,
+                "y": 21.91673,
+                "z": 13.32392
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.7014091,
+                "z": 0.0,
+                "w": 0.7127589
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -159.0161,
+                    "y": 27.13027,
+                    "z": 14.40086
+                },
+                "size": {
+                    "x": 10.86459,
+                    "y": 18.60522,
+                    "z": 20.39594
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_Group05",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_Group05",
+            "Position": {
+                "x": -150.8577,
+                "y": 29.59011,
+                "z": -12.01444
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.5115921,
+                "z": 0.0,
+                "w": 0.8592284
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -151.3581,
+                    "y": 35.67777,
+                    "z": -10.51371
+                },
+                "size": {
+                    "x": 13.99927,
+                    "y": 17.93501,
+                    "z": 22.61308
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_Group04",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_Group04",
+            "Position": {
+                "x": -125.7339,
+                "y": 30.32009,
+                "z": -24.10397
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0582061,
+                "z": 0.0,
+                "w": 0.9983046
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -126.8235,
+                    "y": 38.33769,
+                    "z": -23.21299
+                },
+                "size": {
+                    "x": 20.59587,
+                    "y": 16.60184,
+                    "z": 13.24581
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_Group03",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_Group03",
+            "Position": {
+                "x": -110.0979,
+                "y": 32.40406,
+                "z": -30.21099
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.3178998,
+                "z": 0.0,
+                "w": 0.9481243
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -111.1144,
+                    "y": 38.96138,
+                    "z": -28.95284
+                },
+                "size": {
+                    "x": 18.7827,
+                    "y": 17.70173,
+                    "z": 20.94319
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_Group02",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_Group02",
+            "Position": {
+                "x": -95.53363,
+                "y": 38.83089,
+                "z": -44.01029
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.3049845,
+                "z": 0.0,
+                "w": 0.9523574
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -96.56116,
+                    "y": 44.87313,
+                    "z": -42.76303
+                },
+                "size": {
+                    "x": 19.01184,
+                    "y": 18.67555,
+                    "z": 20.67664
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_C010",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_C010",
+            "Position": {
+                "x": -10.85913,
+                "y": 6.37851,
+                "z": 74.72405
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": -0.4003251,
+                "z": 0.0,
+                "w": 0.9163732
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -10.83908,
+                    "y": 13.71072,
+                    "z": 74.2015
+                },
+                "size": {
+                    "x": 13.4016,
+                    "y": 14.76873,
+                    "z": 13.4016
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_C09",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_C09",
+            "Position": {
+                "x": -20.93065,
+                "y": 7.978425,
+                "z": 75.39779
+            },
+            "Rotation": {
+                "x": 8.316705E-17,
+                "y": 0.8761103,
+                "z": -8.316705E-17,
+                "w": 0.4821107
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -21.04514,
+                    "y": 15.31064,
+                    "z": 75.90804
+                },
+                "size": {
+                    "x": 13.08607,
+                    "y": 14.76873,
+                    "z": 13.08607
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_C08",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_C08",
+            "Position": {
+                "x": 8.208727,
+                "y": 6.37851,
+                "z": 86.35276
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": -0.5719178,
+                "z": 0.0,
+                "w": 0.820311
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": 8.427811,
+                    "y": 13.71072,
+                    "z": 85.87793
+                },
+                "size": {
+                    "x": 12.17775,
+                    "y": 14.76873,
+                    "z": 12.17773
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_C07",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_C07",
+            "Position": {
+                "x": -178.6986,
+                "y": 11.18569,
+                "z": 64.31682
+            },
+            "Rotation": {
+                "x": -1.157556E-20,
+                "y": -0.7072013,
+                "z": 1.157556E-20,
+                "w": 0.7070122
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -178.3287,
+                    "y": 18.5179,
+                    "z": 63.86193
+                },
+                "size": {
+                    "x": 9.48587,
+                    "y": 14.76873,
+                    "z": 9.703568
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_C06",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_C06",
+            "Position": {
+                "x": -178.6234,
+                "y": 17.57223,
+                "z": 22.16603
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": -0.7029742,
+                "z": 0.0,
+                "w": 0.7112154
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -178.258,
+                    "y": 24.90445,
+                    "z": 21.71215
+                },
+                "size": {
+                    "x": 9.593201,
+                    "y": 14.76873,
+                    "z": 9.7896
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_C05",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_C05",
+            "Position": {
+                "x": -103.9025,
+                "y": 39.67765,
+                "z": -57.30916
+            },
+            "Rotation": {
+                "x": 4.102368E-17,
+                "y": 0.9577084,
+                "z": -4.102368E-17,
+                "w": -0.2877408
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -103.3902,
+                    "y": 47.00986,
+                    "z": -57.20441
+                },
+                "size": {
+                    "x": 13.13966,
+                    "y": 14.76873,
+                    "z": 13.13968
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_C04",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_C04",
+            "Position": {
+                "x": -138.3897,
+                "y": 9.925531,
+                "z": 33.27437
+            },
+            "Rotation": {
+                "x": 6.122106E-17,
+                "y": 1.0,
+                "z": -6.122106E-17,
+                "w": -0.0001841975
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -137.9349,
+                    "y": 17.25775,
+                    "z": 33.644
+                },
+                "size": {
+                    "x": 9.704346,
+                    "y": 14.76873,
+                    "z": 9.486824
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_C03",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_C03",
+            "Position": {
+                "x": -138.8569,
+                "y": 30.37748,
+                "z": -20.2147
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.1075864,
+                "z": 0.0,
+                "w": 0.9941958
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -139.2972,
+                    "y": 37.70969,
+                    "z": -20.49681
+                },
+                "size": {
+                    "x": 11.29251,
+                    "y": 14.76872,
+                    "z": 11.29251
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_C02",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_C02",
+            "Position": {
+                "x": -72.84676,
+                "y": 39.63017,
+                "z": -51.01785
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -73.30163,
+                    "y": 46.96238,
+                    "z": -51.38762
+                },
+                "size": {
+                    "x": 9.701523,
+                    "y": 14.76873,
+                    "z": 9.48333
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_B010",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_B010",
+            "Position": {
+                "x": -73.32417,
+                "y": 35.82116,
+                "z": -43.31936
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.3255742,
+                "z": 0.0,
+                "w": 0.9455165
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -72.61495,
+                    "y": 45.49981,
+                    "z": -43.09953
+                },
+                "size": {
+                    "x": 21.83791,
+                    "y": 19.49927,
+                    "z": 21.92122
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_B09",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_B09",
+            "Position": {
+                "x": -20.79137,
+                "y": 7.237394,
+                "z": 90.81242
+            },
+            "Rotation": {
+                "x": 7.152269E-17,
+                "y": 0.9826652,
+                "z": -7.152269E-17,
+                "w": 0.1853889
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -20.69016,
+                    "y": 16.91604,
+                    "z": 90.3587
+                },
+                "size": {
+                    "x": 20.31138,
+                    "y": 19.49928,
+                    "z": 20.24414
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_B08",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_B08",
+            "Position": {
+                "x": 8.174932,
+                "y": 5.067418,
+                "z": 93.34732
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.7071068,
+                "z": 0.0,
+                "w": 0.7071068
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": 8.369492,
+                    "y": 14.74607,
+                    "z": 93.04431
+                },
+                "size": {
+                    "x": 15.69292,
+                    "y": 19.49928,
+                    "z": 16.34198
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_B07",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_B07",
+            "Position": {
+                "x": -151.7662,
+                "y": 11.60317,
+                "z": 37.75316
+            },
+            "Rotation": {
+                "x": 6.786277E-17,
+                "y": 0.9933763,
+                "z": -6.786277E-17,
+                "w": 0.1149068
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -151.821,
+                    "y": 21.28182,
+                    "z": 37.39298
+                },
+                "size": {
+                    "x": 19.10138,
+                    "y": 19.49928,
+                    "z": 18.80607
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_B06",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_B06",
+            "Position": {
+                "x": -147.2337,
+                "y": 8.029451,
+                "z": 75.49371
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": -0.1617081,
+                "z": 0.0,
+                "w": 0.9868386
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -147.2824,
+                    "y": 17.7081,
+                    "z": 75.91683
+                },
+                "size": {
+                    "x": 19.94836,
+                    "y": 19.49928,
+                    "z": 19.80385
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_B05",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_B05",
+            "Position": {
+                "x": -185.0815,
+                "y": -0.03640605,
+                "z": 172.1962
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": -0.1918,
+                "z": 0.0,
+                "w": 0.981434
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -185.1969,
+                    "y": 9.642242,
+                    "z": 172.6581
+                },
+                "size": {
+                    "x": 20.40186,
+                    "y": 19.49928,
+                    "z": 20.35565
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_B04",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_B04",
+            "Position": {
+                "x": -204.5633,
+                "y": 1.455557,
+                "z": 140.2731
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": -0.6989964,
+                "z": 0.0,
+                "w": 0.7151252
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -204.7603,
+                    "y": 11.14289,
+                    "z": 140.6
+                },
+                "size": {
+                    "x": 16.04279,
+                    "y": 19.48191,
+                    "z": 16.65656
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_B03",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_B03",
+            "Position": {
+                "x": -154.9,
+                "y": 25.19392,
+                "z": -3.01594
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.5034581,
+                "z": 0.0,
+                "w": 0.8640197
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -154.3619,
+                    "y": 34.87257,
+                    "z": -2.826015
+                },
+                "size": {
+                    "x": 21.27151,
+                    "y": 19.49928,
+                    "z": 21.23979
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_B02",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_B02",
+            "Position": {
+                "x": -86.35973,
+                "y": 38.27076,
+                "z": -48.08554
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -86.05672,
+                    "y": 47.94941,
+                    "z": -47.89098
+                },
+                "size": {
+                    "x": 16.34198,
+                    "y": 19.49928,
+                    "z": 15.69291
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_A026",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_A026",
+            "Position": {
+                "x": -79.77047,
+                "y": 18.47628,
+                "z": -25.86229
+            },
+            "Rotation": {
+                "x": 3.896248E-17,
+                "y": 0.9496421,
+                "z": -3.896248E-17,
+                "w": -0.3133366
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -78.79181,
+                    "y": 27.45692,
+                    "z": -27.02438
+                },
+                "size": {
+                    "x": 20.11276,
+                    "y": 18.12463,
+                    "z": 20.36052
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_A025",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_A025",
+            "Position": {
+                "x": -93.88548,
+                "y": 32.2892,
+                "z": -27.89115
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.329921,
+                "z": 0.0,
+                "w": 0.9440086
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -94.82285,
+                    "y": 41.26984,
+                    "z": -26.69551
+                },
+                "size": {
+                    "x": 20.2352,
+                    "y": 18.12463,
+                    "z": 20.42459
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_A024",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_A024",
+            "Position": {
+                "x": -73.58244,
+                "y": 37.21772,
+                "z": -46.2849
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -75.06051,
+                    "y": 46.19836,
+                    "z": -45.93342
+                },
+                "size": {
+                    "x": 13.87355,
+                    "y": 18.12463,
+                    "z": 15.06166
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_A023",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_A023",
+            "Position": {
+                "x": -81.13286,
+                "y": 37.89442,
+                "z": -45.02236
+            },
+            "Rotation": {
+                "x": -7.890638E-19,
+                "y": -0.7135206,
+                "z": 7.890638E-19,
+                "w": 0.7006342
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -81.45734,
+                    "y": 46.87506,
+                    "z": -46.50659
+                },
+                "size": {
+                    "x": 15.31198,
+                    "y": 18.12463,
+                    "z": 14.14571
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_A022",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_A022",
+            "Position": {
+                "x": -81.8675,
+                "y": 15.7234,
+                "z": -20.82317
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": -0.3943588,
+                "z": 0.0,
+                "w": 0.9189565
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -83.14059,
+                    "y": 24.70404,
+                    "z": -21.65232
+                },
+                "size": {
+                    "x": 20.47499,
+                    "y": 18.12463,
+                    "z": 20.43242
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_A021",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_A021",
+            "Position": {
+                "x": -153.5401,
+                "y": 7.971831,
+                "z": 74.47255
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.1305262,
+                "z": 0.0,
+                "w": 0.9914449
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -154.8768,
+                    "y": 16.95247,
+                    "z": 75.19461
+                },
+                "size": {
+                    "x": 17.29907,
+                    "y": 18.12463,
+                    "z": 18.13919
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_A020",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_A020",
+            "Position": {
+                "x": -164.1005,
+                "y": 7.58024,
+                "z": 91.91704
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.5,
+                "z": 0.0,
+                "w": 0.8660254
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -164.5352,
+                    "y": 16.56088,
+                    "z": 93.37282
+                },
+                "size": {
+                    "x": 19.98059,
+                    "y": 18.12463,
+                    "z": 19.54565
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_A019",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_A019",
+            "Position": {
+                "x": -34.34621,
+                "y": 8.352037,
+                "z": 76.41963
+            },
+            "Rotation": {
+                "x": 8.659432E-17,
+                "y": 0.7109435,
+                "z": -8.659432E-17,
+                "w": 0.7032492
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -33.97867,
+                    "y": 17.33268,
+                    "z": 77.89378
+                },
+                "size": {
+                    "x": 15.21173,
+                    "y": 18.12463,
+                    "z": 14.03662
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_A018",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_A018",
+            "Position": {
+                "x": -32.97474,
+                "y": 9.675978,
+                "z": 86.38327
+            },
+            "Rotation": {
+                "x": 7.738074E-17,
+                "y": 0.9492744,
+                "z": -7.738074E-17,
+                "w": 0.314449
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -31.57914,
+                    "y": 18.65662,
+                    "z": 86.9837
+                },
+                "size": {
+                    "x": 20.12173,
+                    "y": 18.12463,
+                    "z": 20.36559
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_A017",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_A017",
+            "Position": {
+                "x": 11.41541,
+                "y": 2.035806,
+                "z": 103.0086
+            },
+            "Rotation": {
+                "x": 6.123234E-17,
+                "y": 1.0,
+                "z": -6.123234E-17,
+                "w": -6.123234E-17
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": 12.89348,
+                    "y": 11.01644,
+                    "z": 102.6571
+                },
+                "size": {
+                    "x": 13.87355,
+                    "y": 18.12463,
+                    "z": 15.06166
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_A016",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_A016",
+            "Position": {
+                "x": -184.6301,
+                "y": 2.032994,
+                "z": 132.3643
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.524443,
+                "z": 0.0,
+                "w": 0.8514456
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -184.9812,
+                    "y": 11.01363,
+                    "z": 133.8424
+                },
+                "size": {
+                    "x": 19.69308,
+                    "y": 18.12463,
+                    "z": 19.16656
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_A015",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_A015",
+            "Position": {
+                "x": -130.8697,
+                "y": 0.4408628,
+                "z": 157.9731
+            },
+            "Rotation": {
+                "x": 6.099906E-17,
+                "y": 0.9999928,
+                "z": -6.099906E-17,
+                "w": -0.003802546
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -129.3943,
+                    "y": 9.421502,
+                    "z": 157.6104
+                },
+                "size": {
+                    "x": 13.98767,
+                    "y": 18.12463,
+                    "z": 15.16675
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_A014",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_A014",
+            "Position": {
+                "x": -144.4713,
+                "y": -0.1853475,
+                "z": 173.6396
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": -0.01481908,
+                "z": 0.0,
+                "w": 0.9998902
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -145.9591,
+                    "y": 8.795291,
+                    "z": 173.9471
+                },
+                "size": {
+                    "x": 14.31378,
+                    "y": 18.12463,
+                    "z": 15.46619
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_A013",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_A013",
+            "Position": {
+                "x": -186.2458,
+                "y": 8.228821,
+                "z": 88.16965
+            },
+            "Rotation": {
+                "x": -1.956699E-17,
+                "y": -0.8485954,
+                "z": 1.956699E-17,
+                "w": 0.5290423
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -185.9107,
+                    "y": 17.20946,
+                    "z": 86.68779
+                },
+                "size": {
+                    "x": 19.6312,
+                    "y": 18.12463,
+                    "z": 19.08743
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_A012",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_A012",
+            "Position": {
+                "x": -177.7692,
+                "y": 11.66657,
+                "z": 44.18304
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": -0.7044062,
+                "z": 0.0,
+                "w": 0.7097971
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -178.132,
+                    "y": 20.64721,
+                    "z": 42.7077
+                },
+                "size": {
+                    "x": 15.16699,
+                    "y": 18.12463,
+                    "z": 13.98798
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_A011",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_A011",
+            "Position": {
+                "x": -159.6711,
+                "y": 32.01984,
+                "z": -29.65527
+            },
+            "Rotation": {
+                "x": 3.943993E-17,
+                "y": 0.9515615,
+                "z": -3.943993E-17,
+                "w": -0.3074585
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -158.6781,
+                    "y": 41.00048,
+                    "z": -30.80516
+                },
+                "size": {
+                    "x": 20.06363,
+                    "y": 18.12463,
+                    "z": 20.33193
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_A010",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_A010",
+            "Position": {
+                "x": -110.0554,
+                "y": 39.46793,
+                "z": -52.52677
+            },
+            "Rotation": {
+                "x": 3.650591E-17,
+                "y": 0.9392956,
+                "z": -3.650591E-17,
+                "w": -0.3431089
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -109.1519,
+                    "y": 48.44857,
+                    "z": -53.7482
+                },
+                "size": {
+                    "x": 20.31522,
+                    "y": 18.12463,
+                    "z": 20.45778
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_A09",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_A09",
+            "Position": {
+                "x": -83.11619,
+                "y": 10.46197,
+                "z": -6.065029
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.3752554,
+                "z": 0.0,
+                "w": 0.9269215
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -83.93347,
+                    "y": 19.44261,
+                    "z": -4.784299
+                },
+                "size": {
+                    "x": 20.44415,
+                    "y": 18.12463,
+                    "z": 20.47113
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_A08",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_A08",
+            "Position": {
+                "x": -99.65884,
+                "y": 9.173611,
+                "z": 18.17903
+            },
+            "Rotation": {
+                "x": 4.627175E-17,
+                "y": 0.9755321,
+                "z": -4.627175E-17,
+                "w": -0.2198571
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -98.47443,
+                    "y": 18.15425,
+                    "z": 17.2275
+                },
+                "size": {
+                    "x": 18.99312,
+                    "y": 18.12463,
+                    "z": 19.55672
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_A07",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_A07",
+            "Position": {
+                "x": -102.4371,
+                "y": 8.807045,
+                "z": 23.04393
+            },
+            "Rotation": {
+                "x": 3.836756E-17,
+                "y": 0.9472084,
+                "z": -3.836756E-17,
+                "w": -0.3206186
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -101.4764,
+                    "y": 17.78769,
+                    "z": 21.86696
+                },
+                "size": {
+                    "x": 20.16948,
+                    "y": 18.12463,
+                    "z": 20.39168
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_A06",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_A06",
+            "Position": {
+                "x": -158.1842,
+                "y": 23.29081,
+                "z": 2.510854
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.5166393,
+                "z": 0.0,
+                "w": 0.8562031
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -158.5623,
+                    "y": 32.27145,
+                    "z": 3.982344
+                },
+                "size": {
+                    "x": 19.79242,
+                    "y": 18.12463,
+                    "z": 19.29514
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_A05",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_A05",
+            "Position": {
+                "x": -145.3656,
+                "y": 30.70718,
+                "z": -18.25434
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.1922106,
+                "z": 0.0,
+                "w": 0.9813537
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -146.6019,
+                    "y": 39.68782,
+                    "z": -17.37123
+                },
+                "size": {
+                    "x": 18.53049,
+                    "y": 18.12463,
+                    "z": 19.18259
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_A04",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_A04",
+            "Position": {
+                "x": -103.6954,
+                "y": 34.75498,
+                "z": -37.82962
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.3356999,
+                "z": 0.0,
+                "w": 0.941969
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -104.618,
+                    "y": 43.73562,
+                    "z": -36.62257
+                },
+                "size": {
+                    "x": 20.27217,
+                    "y": 18.12463,
+                    "z": 20.44109
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_A03",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_A03",
+            "Position": {
+                "x": -82.92281,
+                "y": 38.48063,
+                "z": -48.14331
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -84.40088,
+                    "y": 47.46127,
+                    "z": -47.79183
+                },
+                "size": {
+                    "x": 13.87354,
+                    "y": 18.12463,
+                    "z": 15.06166
+                }
+            }
+        },
+        {
+            "GoName": "PerpStage_Memory_Sakura_Bamboo_A02",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/PerpStage_Memory_Sakura_Bamboo_A02",
+            "Position": {
+                "x": -78.55471,
+                "y": 38.98651,
+                "z": -48.9205
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -80.03278,
+                    "y": 47.96715,
+                    "z": -48.56902
+                },
+                "size": {
+                    "x": 13.87354,
+                    "y": 18.12463,
+                    "z": 15.06166
+                }
+            }
+        },
+        {
+            "GoName": "Sakura_Pole_group01",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/Sakura_Pole_group01",
+            "Position": {
+                "x": -88.15049,
+                "y": 32.85134,
+                "z": -41.9664
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.227625,
+                "z": 0.0,
+                "w": 0.9737489
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -88.4861,
+                    "y": 40.85453,
+                    "z": -42.40928
+                },
+                "size": {
+                    "x": 11.39957,
+                    "y": 16.00639,
+                    "z": 10.64724
+                }
+            }
+        },
+        {
+            "GoName": "Sakura_Pole_group01",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/Sakura_Pole_group01",
+            "Position": {
+                "x": -96.20129,
+                "y": 31.41854,
+                "z": -35.7404
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.2919568,
+                "z": 0.0,
+                "w": 0.9564315
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -96.64607,
+                    "y": 39.42173,
+                    "z": -36.16111
+                },
+                "size": {
+                    "x": 11.46017,
+                    "y": 16.0064,
+                    "z": 11.28791
+                }
+            }
+        },
+        {
+            "GoName": "Sakura_Pole_group01",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/Sakura_Pole_group01",
+            "Position": {
+                "x": -104.4374,
+                "y": 28.46611,
+                "z": -29.89987
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.2984612,
+                "z": 0.0,
+                "w": 0.9544218
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -104.893,
+                    "y": 36.4693,
+                    "z": -30.31789
+                },
+                "size": {
+                    "x": 11.45494,
+                    "y": 16.00639,
+                    "z": 11.34226
+                }
+            }
+        },
+        {
+            "GoName": "Sakura_Pole_group01",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/Sakura_Pole_group01",
+            "Position": {
+                "x": -114.5876,
+                "y": 25.46169,
+                "z": -22.79264
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.2379803,
+                "z": 0.0,
+                "w": 0.97127
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -114.9411,
+                    "y": 33.46488,
+                    "z": -23.23249
+                },
+                "size": {
+                    "x": 11.4229,
+                    "y": 16.00639,
+                    "z": 10.76263
+                }
+            }
+        },
+        {
+            "GoName": "Sakura_Pole_group01",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/Sakura_Pole_group01",
+            "Position": {
+                "x": -123.1102,
+                "y": 24.77795,
+                "z": -19.79302
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.1125001,
+                "z": 0.0,
+                "w": 0.9936517
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -123.2412,
+                    "y": 32.78114,
+                    "z": -20.25563
+                },
+                "size": {
+                    "x": 10.80751,
+                    "y": 16.00639,
+                    "z": 9.075909
+                }
+            }
+        },
+        {
+            "GoName": "Sakura_Pole_group01",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/Sakura_Pole_group01",
+            "Position": {
+                "x": -133.1366,
+                "y": 25.65613,
+                "z": -18.00318
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.1066662,
+                "z": 0.0,
+                "w": 0.9942949
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -133.2569,
+                    "y": 33.65932,
+                    "z": -18.46612
+                },
+                "size": {
+                    "x": 10.76185,
+                    "y": 16.00639,
+                    "z": 8.98315
+                }
+            }
+        },
+        {
+            "GoName": "Sakura_Pole_group01",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/Sakura_Pole_group01",
+            "Position": {
+                "x": -142.7739,
+                "y": 24.87778,
+                "z": -14.66619
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.2190473,
+                "z": 0.0,
+                "w": 0.9757143
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -143.0946,
+                    "y": 32.88097,
+                    "z": -15.11141
+                },
+                "size": {
+                    "x": 11.3764,
+                    "y": 16.00639,
+                    "z": 10.54823
+                }
+            }
+        },
+        {
+            "GoName": "Sakura_Pole_group01",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/Sakura_Pole_group01",
+            "Position": {
+                "x": -148.5148,
+                "y": 22.73895,
+                "z": -7.256584
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.4964411,
+                "z": 0.0,
+                "w": 0.8680704
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -149.258,
+                    "y": 30.74215,
+                    "z": -7.551947
+                },
+                "size": {
+                    "x": 10.20374,
+                    "y": 16.00639,
+                    "z": 11.93812
+                }
+            }
+        },
+        {
+            "GoName": "Sakura_Pole_group01",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/Sakura_Pole_group01",
+            "Position": {
+                "x": -152.5828,
+                "y": 19.39402,
+                "z": 1.329199
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.5037528,
+                "z": 0.0,
+                "w": 0.8638479
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -153.3346,
+                    "y": 27.39722,
+                    "z": 1.039918
+                },
+                "size": {
+                    "x": 10.11404,
+                    "y": 16.00639,
+                    "z": 11.91609
+                }
+            }
+        },
+        {
+            "GoName": "Sakura_Pole_group01",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/Sakura_Pole_group01",
+            "Position": {
+                "x": -155.763,
+                "y": 15.45844,
+                "z": 9.070414
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.6878403,
+                "z": 0.0,
+                "w": 0.7258621
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -156.3352,
+                    "y": 23.46164,
+                    "z": 8.972569
+                },
+                "size": {
+                    "x": 7.311493,
+                    "y": 16.00639,
+                    "z": 10.04598
+                }
+            }
+        },
+        {
+            "GoName": "Sakura_Pole_group01",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/Sakura_Pole_group01",
+            "Position": {
+                "x": -154.2797,
+                "y": 12.11388,
+                "z": 17.29882
+            },
+            "Rotation": {
+                "x": 8.568137E-17,
+                "y": 0.8021199,
+                "z": -8.568137E-17,
+                "w": 0.597163
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -154.7393,
+                    "y": 20.11707,
+                    "z": 17.48821
+                },
+                "size": {
+                    "x": 9.569412,
+                    "y": 16.00639,
+                    "z": 11.03435
+                }
+            }
+        },
+        {
+            "GoName": "Sakura_Pole_group01",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/Sakura_Pole_group01",
+            "Position": {
+                "x": -152.8349,
+                "y": 9.336591,
+                "z": 25.70163
+            },
+            "Rotation": {
+                "x": 7.755565E-17,
+                "y": 0.9478434,
+                "z": -7.755565E-17,
+                "w": 0.3187365
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -153.1699,
+                    "y": 17.33978,
+                    "z": 26.37872
+                },
+                "size": {
+                    "x": 11.99706,
+                    "y": 16.00639,
+                    "z": 10.744
+                }
+            }
+        },
+        {
+            "GoName": "Sakura_Pole_group01",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/Sakura_Pole_group01",
+            "Position": {
+                "x": -144.624,
+                "y": 8.707503,
+                "z": 27.31329
+            },
+            "Rotation": {
+                "x": 6.381008E-17,
+                "y": 0.9990741,
+                "z": -6.381008E-17,
+                "w": 0.04302343
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -144.7364,
+                    "y": 16.7107,
+                    "z": 27.96123
+                },
+                "size": {
+                    "x": 10.25261,
+                    "y": 16.00639,
+                    "z": 7.449139
+                }
+            }
+        },
+        {
+            "GoName": "Sakura_Pole_group01",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/Sakura_Pole_group01",
+            "Position": {
+                "x": -124.3837,
+                "y": 5.006415,
+                "z": 27.63034
+            },
+            "Rotation": {
+                "x": 6.272073E-17,
+                "y": 0.9996971,
+                "z": -6.272073E-17,
+                "w": 0.02461002
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -124.4795,
+                    "y": 13.00961,
+                    "z": 28.1918
+                },
+                "size": {
+                    "x": 10.01601,
+                    "y": 16.00639,
+                    "z": 7.291477
+                }
+            }
+        },
+        {
+            "GoName": "Sakura_Pole_group01",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/Sakura_Pole_group01",
+            "Position": {
+                "x": -114.6177,
+                "y": 4.445517,
+                "z": 24.71428
+            },
+            "Rotation": {
+                "x": 4.429682E-17,
+                "y": 0.9693006,
+                "z": -4.429682E-17,
+                "w": -0.2458786
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -114.2506,
+                    "y": 12.44871,
+                    "z": 25.15168
+                },
+                "size": {
+                    "x": 11.43724,
+                    "y": 16.00639,
+                    "z": 10.84755
+                }
+            }
+        },
+        {
+            "GoName": "Sakura_Pole_group01",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/Sakura_Pole_group01",
+            "Position": {
+                "x": -106.5572,
+                "y": 3.948528,
+                "z": 19.14135
+            },
+            "Rotation": {
+                "x": 4.079114E-17,
+                "y": 0.9568272,
+                "z": -4.079114E-17,
+                "w": -0.2906573
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -106.1145,
+                    "y": 11.95172,
+                    "z": 19.5626
+                },
+                "size": {
+                    "x": 11.46098,
+                    "y": 16.00639,
+                    "z": 11.27682
+                }
+            }
+        },
+        {
+            "GoName": "Sakura_Pole_group01",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/Sakura_Pole_group01",
+            "Position": {
+                "x": -103.2429,
+                "y": 6.61888,
+                "z": 10.21613
+            },
+            "Rotation": {
+                "x": -1.272186E-17,
+                "y": -0.8033164,
+                "z": 1.272186E-17,
+                "w": 0.5955526
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -102.3979,
+                    "y": 14.62207,
+                    "z": 10.41936
+                },
+                "size": {
+                    "x": 8.692032,
+                    "y": 16.00639,
+                    "z": 11.32204
+                }
+            }
+        },
+        {
+            "GoName": "Sakura_Pole_group01",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/Sakura_Pole_group01",
+            "Position": {
+                "x": -100.7215,
+                "y": 7.477864,
+                "z": -0.1039843
+            },
+            "Rotation": {
+                "x": -2.079635E-17,
+                "y": -0.8562281,
+                "z": 2.079635E-17,
+                "w": 0.516598
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -99.95478,
+                    "y": 15.48106,
+                    "z": 0.1743488
+                },
+                "size": {
+                    "x": 9.948318,
+                    "y": 16.00639,
+                    "z": 11.8688
+                }
+            }
+        },
+        {
+            "GoName": "Sakura_Pole_group01",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/Sakura_Pole_group01",
+            "Position": {
+                "x": -94.91893,
+                "y": 9.187789,
+                "z": -9.229484
+            },
+            "Rotation": {
+                "x": 3.446437E-17,
+                "y": 0.9301148,
+                "z": -3.446437E-17,
+                "w": -0.3672689
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -94.35393,
+                    "y": 17.19098,
+                    "z": -8.845074
+                },
+                "size": {
+                    "x": 11.26551,
+                    "y": 16.00639,
+                    "z": 11.791
+                }
+            }
+        },
+        {
+            "GoName": "Sakura_Pole_group01",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/Sakura_Pole_group01",
+            "Position": {
+                "x": -111.6986,
+                "y": 34.65273,
+                "z": -59.29996
+            },
+            "Rotation": {
+                "x": 0.02546082,
+                "y": 0.9707373,
+                "z": 0.04411638,
+                "w": -0.2346799
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -110.792,
+                    "y": 42.52814,
+                    "z": -58.27095
+                },
+                "size": {
+                    "x": 12.50845,
+                    "y": 16.80104,
+                    "z": 11.8941
+                }
+            }
+        },
+        {
+            "GoName": "Sakura_Pole_group01",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/Sakura_Pole_group01",
+            "Position": {
+                "x": -121.4773,
+                "y": 32.09089,
+                "z": -54.10451
+            },
+            "Rotation": {
+                "x": 0.02546082,
+                "y": 0.9707373,
+                "z": 0.04411638,
+                "w": -0.2346799
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -120.5707,
+                    "y": 39.96629,
+                    "z": -53.0755
+                },
+                "size": {
+                    "x": 12.50845,
+                    "y": 16.80104,
+                    "z": 11.8941
+                }
+            }
+        },
+        {
+            "GoName": "Sakura_Pole_group01",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/Sakura_Pole_group01",
+            "Position": {
+                "x": -128.693,
+                "y": 30.62627,
+                "z": -48.51404
+            },
+            "Rotation": {
+                "x": 0.02073801,
+                "y": 0.9898704,
+                "z": 0.04652358,
+                "w": -0.1325222
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -128.1007,
+                    "y": 38.50167,
+                    "z": -47.36178
+                },
+                "size": {
+                    "x": 11.78519,
+                    "y": 16.80104,
+                    "z": 10.75601
+                }
+            }
+        },
+        {
+            "GoName": "Sakura_Pole_group01",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/Sakura_Pole_group01",
+            "Position": {
+                "x": -138.4008,
+                "y": 29.77992,
+                "z": -45.98157
+            },
+            "Rotation": {
+                "x": 0.02154255,
+                "y": 0.9874206,
+                "z": 0.04615655,
+                "w": -0.1496867
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -137.7539,
+                    "y": 37.65533,
+                    "z": -44.84652
+                },
+                "size": {
+                    "x": 11.94229,
+                    "y": 16.80105,
+                    "z": 10.97966
+                }
+            }
+        },
+        {
+            "GoName": "Sakura_Pole_group01",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/Sakura_Pole_group01",
+            "Position": {
+                "x": -148.5402,
+                "y": 28.88491,
+                "z": -43.61151
+            },
+            "Rotation": {
+                "x": 0.02273393,
+                "y": 0.9832003,
+                "z": 0.04558154,
+                "w": -0.1752786
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -147.8131,
+                    "y": 36.76031,
+                    "z": -42.50475
+                },
+                "size": {
+                    "x": 12.15038,
+                    "y": 16.80104,
+                    "z": 11.28944
+                }
+            }
+        },
+        {
+            "GoName": "Sakura_Pole_group01",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/Sakura_Pole_group01",
+            "Position": {
+                "x": -157.9623,
+                "y": 28.58048,
+                "z": -38.67824
+            },
+            "Rotation": {
+                "x": 0.02549643,
+                "y": 0.9705475,
+                "z": 0.04409581,
+                "w": -0.2354636
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -157.0533,
+                    "y": 36.45589,
+                    "z": -37.65036
+                },
+                "size": {
+                    "x": 12.51199,
+                    "y": 16.80104,
+                    "z": 11.90097
+                }
+            }
+        },
+        {
+            "GoName": "Sakura_Pole_group01",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/Sakura_Pole_group01",
+            "Position": {
+                "x": -166.8075,
+                "y": 28.09533,
+                "z": -33.42486
+            },
+            "Rotation": {
+                "x": 0.02824649,
+                "y": 0.9536268,
+                "z": 0.04238684,
+                "w": -0.2966505
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -165.7253,
+                    "y": 35.97073,
+                    "z": -32.49473
+                },
+                "size": {
+                    "x": 12.68633,
+                    "y": 16.80105,
+                    "z": 12.34296
+                }
+            }
+        },
+        {
+            "GoName": "Sakura_Pole_group01",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/Sakura_Pole_group01",
+            "Position": {
+                "x": -174.0137,
+                "y": 26.36604,
+                "z": -25.72299
+            },
+            "Rotation": {
+                "x": 0.03603626,
+                "y": 0.8765907,
+                "z": 0.03599856,
+                "w": -0.4785334
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -172.5147,
+                    "y": 34.24144,
+                    "z": -25.18525
+                },
+                "size": {
+                    "x": 11.92242,
+                    "y": 16.80104,
+                    "z": 12.42865
+                }
+            }
+        },
+        {
+            "GoName": "Sakura_Pole_group01",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/Sakura_Pole_group01",
+            "Position": {
+                "x": -178.5338,
+                "y": 23.01962,
+                "z": -16.67509
+            },
+            "Rotation": {
+                "x": 0.03662204,
+                "y": 0.8686215,
+                "z": 0.03540247,
+                "w": -0.4928512
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -177.01,
+                    "y": 30.89502,
+                    "z": -16.17454
+                },
+                "size": {
+                    "x": 11.77251,
+                    "y": 16.80104,
+                    "z": 12.34737
+                }
+            }
+        },
+        {
+            "GoName": "Sakura_Pole_group01",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/Sakura_Pole_group01",
+            "Position": {
+                "x": -183.3418,
+                "y": 20.90011,
+                "z": -7.816455
+            },
+            "Rotation": {
+                "x": 0.03662204,
+                "y": 0.8686215,
+                "z": 0.03540247,
+                "w": -0.4928512
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -181.8181,
+                    "y": 28.77551,
+                    "z": -7.315903
+                },
+                "size": {
+                    "x": 11.77249,
+                    "y": 16.80104,
+                    "z": 12.34737
+                }
+            }
+        },
+        {
+            "GoName": "Sakura_Pole_group01",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/Sakura_Pole_group01",
+            "Position": {
+                "x": -186.589,
+                "y": 19.3878,
+                "z": 2.995062
+            },
+            "Rotation": {
+                "x": -0.04160326,
+                "y": -0.7830762,
+                "z": -0.02938838,
+                "w": 0.6198364
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -184.916,
+                    "y": 27.2632,
+                    "z": 3.12728
+                },
+                "size": {
+                    "x": 9.783783,
+                    "y": 16.80104,
+                    "z": 11.13843
+                }
+            }
+        },
+        {
+            "GoName": "Sakura_Pole_group01",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/Sakura_Pole_group01",
+            "Position": {
+                "x": -187.1812,
+                "y": 16.52767,
+                "z": 13.45193
+            },
+            "Rotation": {
+                "x": -0.04346466,
+                "y": -0.7401448,
+                "z": -0.02655808,
+                "w": 0.6705157
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -185.7096,
+                    "y": 24.40307,
+                    "z": 13.41856
+                },
+                "size": {
+                    "x": 9.059082,
+                    "y": 16.80104,
+                    "z": 10.63776
+                }
+            }
+        },
+        {
+            "GoName": "Sakura_Pole_group01",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/Sakura_Pole_group01",
+            "Position": {
+                "x": -187.5527,
+                "y": 12.99008,
+                "z": 23.92366
+            },
+            "Rotation": {
+                "x": -0.04428568,
+                "y": -0.7184908,
+                "z": -0.0251652,
+                "w": 0.6936688
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -186.2413,
+                    "y": 20.86549,
+                    "z": 23.81129
+                },
+                "size": {
+                    "x": 8.765198,
+                    "y": 16.80104,
+                    "z": 10.33187
+                }
+            }
+        },
+        {
+            "GoName": "Sakura_Pole_group01",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/Sakura_Pole_group01",
+            "Position": {
+                "x": -187.5527,
+                "y": 8.993856,
+                "z": 33.75513
+            },
+            "Rotation": {
+                "x": -0.04428568,
+                "y": -0.7184908,
+                "z": -0.0251652,
+                "w": 0.6936688
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -186.2413,
+                    "y": 16.86926,
+                    "z": 33.64276
+                },
+                "size": {
+                    "x": 8.765198,
+                    "y": 16.80104,
+                    "z": 10.33187
+                }
+            }
+        },
+        {
+            "GoName": "Sakura_Pole_group01",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/Sakura_Pole_group01",
+            "Position": {
+                "x": -186.1456,
+                "y": 7.720402,
+                "z": 43.65907
+            },
+            "Rotation": {
+                "x": -0.04414386,
+                "y": -0.7223694,
+                "z": -0.02541315,
+                "w": 0.6896289
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -184.8055,
+                    "y": 15.59581,
+                    "z": 43.56063
+                },
+                "size": {
+                    "x": 8.819733,
+                    "y": 16.80104,
+                    "z": 10.38898
+                }
+            }
+        },
+        {
+            "GoName": "Sakura_Pole_group01",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/Sakura_Pole_group01",
+            "Position": {
+                "x": -186.5898,
+                "y": 7.720402,
+                "z": 55.21706
+            },
+            "Rotation": {
+                "x": -0.04414386,
+                "y": -0.7223694,
+                "z": -0.02541315,
+                "w": 0.6896289
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -185.2497,
+                    "y": 15.59581,
+                    "z": 55.11863
+                },
+                "size": {
+                    "x": 8.819733,
+                    "y": 16.80104,
+                    "z": 10.38898
+                }
+            }
+        },
+        {
+            "GoName": "Sakura_Pole_group01",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/Sakura_Pole_group01",
+            "Position": {
+                "x": -187.6275,
+                "y": 7.34067,
+                "z": 65.57693
+            },
+            "Rotation": {
+                "x": -0.04216938,
+                "y": -0.7708193,
+                "z": -0.02857012,
+                "w": 0.6350142
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -185.9466,
+                    "y": 15.21607,
+                    "z": 65.66064
+                },
+                "size": {
+                    "x": 9.460098,
+                    "y": 16.80104,
+                    "z": 11.01148
+                }
+            }
+        },
+        {
+            "GoName": "Sakura_Pole_group01",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/Sakura_Pole_group01",
+            "Position": {
+                "x": -190.238,
+                "y": 6.271976,
+                "z": 76.24299
+            },
+            "Rotation": {
+                "x": -0.03772578,
+                "y": -0.8525631,
+                "z": -0.03422388,
+                "w": 0.5201362
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -188.6711,
+                    "y": 14.14738,
+                    "z": 76.6702
+                },
+                "size": {
+                    "x": 11.44717,
+                    "y": 16.80104,
+                    "z": 12.1528
+                }
+            }
+        },
+        {
+            "GoName": "Sakura_Pole_group01",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/Sakura_Pole_group01",
+            "Position": {
+                "x": -194.2317,
+                "y": 6.313024,
+                "z": 87.23129
+            },
+            "Rotation": {
+                "x": -0.03717383,
+                "y": -0.8607695,
+                "z": -0.03482262,
+                "w": 0.5064399
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -192.6857,
+                    "y": 14.18843,
+                    "z": 87.69572
+                },
+                "size": {
+                    "x": 11.61708,
+                    "y": 16.80104,
+                    "z": 12.25708
+                }
+            }
+        },
+        {
+            "GoName": "Sakura_Pole_group01",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/Sakura_Pole_group01",
+            "Position": {
+                "x": -198.3179,
+                "y": 4.843704,
+                "z": 98.55343
+            },
+            "Rotation": {
+                "x": -0.03707219,
+                "y": -0.8622418,
+                "z": -0.03493081,
+                "w": 0.5039291
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -196.7759,
+                    "y": 12.71911,
+                    "z": 99.0246
+                },
+                "size": {
+                    "x": 11.64677,
+                    "y": 16.80104,
+                    "z": 12.27475
+                }
+            }
+        },
+        {
+            "GoName": "Sakura_Pole_group01",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/Sakura_Pole_group01",
+            "Position": {
+                "x": -203.1245,
+                "y": 3.560384,
+                "z": 107.6081
+            },
+            "Rotation": {
+                "x": -0.03707219,
+                "y": -0.8622418,
+                "z": -0.03493081,
+                "w": 0.5039291
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -201.5826,
+                    "y": 11.43579,
+                    "z": 108.0792
+                },
+                "size": {
+                    "x": 11.64677,
+                    "y": 16.80104,
+                    "z": 12.27475
+                }
+            }
+        },
+        {
+            "GoName": "Sakura_Pole_group01",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/Sakura_Pole_group01",
+            "Position": {
+                "x": -207.1515,
+                "y": 0.7787384,
+                "z": 115.8668
+            },
+            "Rotation": {
+                "x": -0.03841798,
+                "y": -0.8417448,
+                "z": -0.03344499,
+                "w": 0.5374675
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -205.5601,
+                    "y": 8.654143,
+                    "z": 116.2457
+                },
+                "size": {
+                    "x": 11.21271,
+                    "y": 16.80104,
+                    "z": 12.00125
+                }
+            }
+        },
+        {
+            "GoName": "Sakura_Pole_group01",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/Sakura_Pole_group01",
+            "Position": {
+                "x": -211.0485,
+                "y": -0.3947662,
+                "z": 127.0404
+            },
+            "Rotation": {
+                "x": -0.04039655,
+                "y": -0.8072028,
+                "z": -0.03102623,
+                "w": 0.5880725
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -209.3996,
+                    "y": 7.48064,
+                    "z": 127.2711
+                },
+                "size": {
+                    "x": 10.39864,
+                    "y": 16.80104,
+                    "z": 11.4274
+                }
+            }
+        },
+        {
+            "GoName": "Sakura_Pole_group01",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/Sakura_Pole_group01",
+            "Position": {
+                "x": -212.342,
+                "y": -1.494539,
+                "z": 137.025
+            },
+            "Rotation": {
+                "x": -0.04372621,
+                "y": -0.7334509,
+                "z": -0.02612522,
+                "w": 0.6778312
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -210.9199,
+                    "y": 6.380867,
+                    "z": 136.9669
+                },
+                "size": {
+                    "x": 8.971039,
+                    "y": 16.80104,
+                    "z": 10.54663
+                }
+            }
+        },
+        {
+            "GoName": "Sakura_Pole_group01",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/Sakura_Pole_group01",
+            "Position": {
+                "x": -212.1087,
+                "y": -1.899535,
+                "z": 147.8811
+            },
+            "Rotation": {
+                "x": -0.04539293,
+                "y": -0.6859304,
+                "z": -0.02310823,
+                "w": 0.7258822
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -210.8827,
+                    "y": 5.97587,
+                    "z": 147.631
+                },
+                "size": {
+                    "x": 9.141357,
+                    "y": 16.80104,
+                    "z": 10.54312
+                }
+            }
+        },
+        {
+            "GoName": "Sakura_Pole_group01",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/Sakura_Pole_group01",
+            "Position": {
+                "x": -209.0573,
+                "y": -3.448945,
+                "z": 158.4024
+            },
+            "Rotation": {
+                "x": -0.04808972,
+                "y": -0.5820088,
+                "z": -0.01678949,
+                "w": 0.8115856
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -207.9359,
+                    "y": 4.426462,
+                    "z": 157.7156
+                },
+                "size": {
+                    "x": 11.13635,
+                    "y": 16.80104,
+                    "z": 12.04907
+                }
+            }
+        },
+        {
+            "GoName": "Sakura_Pole_group01",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/Sakura_Pole_group01",
+            "Position": {
+                "x": -202.2592,
+                "y": -3.850362,
+                "z": 168.089
+            },
+            "Rotation": {
+                "x": -0.0499825,
+                "y": -0.4612298,
+                "z": -0.009811144,
+                "w": 0.8858175
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -201.3353,
+                    "y": 4.025045,
+                    "z": 166.9971
+                },
+                "size": {
+                    "x": 12.36288,
+                    "y": 16.80104,
+                    "z": 12.69025
+                }
+            }
+        },
+        {
+            "GoName": "Sakura_Pole_group01",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/Sakura_Pole_group01",
+            "Position": {
+                "x": -173.6218,
+                "y": -4.017211,
+                "z": 181.0823
+            },
+            "Rotation": {
+                "x": -0.04986946,
+                "y": -0.08100618,
+                "z": 0.01037039,
+                "w": 0.9954112
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -173.5757,
+                    "y": 3.858194,
+                    "z": 179.4559
+                },
+                "size": {
+                    "x": 10.90179,
+                    "y": 16.80104,
+                    "z": 9.317505
+                }
+            }
+        },
+        {
+            "GoName": "Sakura_Pole_group01",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/Sakura_Pole_group01",
+            "Position": {
+                "x": -163.457,
+                "y": -4.017211,
+                "z": 181.9016
+            },
+            "Rotation": {
+                "x": -0.04986946,
+                "y": -0.08100618,
+                "z": 0.01037039,
+                "w": 0.9954112
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -163.4109,
+                    "y": 3.858194,
+                    "z": 180.2752
+                },
+                "size": {
+                    "x": 10.90179,
+                    "y": 16.80104,
+                    "z": 9.317505
+                }
+            }
+        },
+        {
+            "GoName": "Sakura_Pole_group01",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/Sakura_Pole_group01",
+            "Position": {
+                "x": -152.8589,
+                "y": -4.017211,
+                "z": 181.9667
+            },
+            "Rotation": {
+                "x": -0.04920526,
+                "y": -0.02474062,
+                "z": 0.01316629,
+                "w": 0.9983954
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -152.9534,
+                    "y": 3.858194,
+                    "z": 180.6185
+                },
+                "size": {
+                    "x": 10.40497,
+                    "y": 16.80104,
+                    "z": 8.835037
+                }
+            }
+        },
+        {
+            "GoName": "Sakura_Pole_group01",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/Sakura_Pole_group01",
+            "Position": {
+                "x": -141.8819,
+                "y": -4.879314,
+                "z": 182.0348
+            },
+            "Rotation": {
+                "x": -0.04898778,
+                "y": -0.00872649,
+                "z": 0.01395369,
+                "w": 0.9986638
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -142.0162,
+                    "y": 2.996092,
+                    "z": 180.769
+                },
+                "size": {
+                    "x": 10.23926,
+                    "y": 16.80104,
+                    "z": 8.677048
+                }
+            }
+        },
+        {
+            "GoName": "Sakura_Pole_group01",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/Sakura_Pole_group01",
+            "Position": {
+                "x": -130.1878,
+                "y": -5.509749,
+                "z": 182.0348
+            },
+            "Rotation": {
+                "x": -0.04898778,
+                "y": -0.00872649,
+                "z": 0.01395369,
+                "w": 0.9986638
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -130.3221,
+                    "y": 2.365656,
+                    "z": 180.769
+                },
+                "size": {
+                    "x": 10.23926,
+                    "y": 16.80104,
+                    "z": 8.677048
+                }
+            }
+        },
+        {
+            "GoName": "Sakura_Pole_group01",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/Sakura_Pole_group01",
+            "Position": {
+                "x": -119.7776,
+                "y": -6.471067,
+                "z": 181.3073
+            },
+            "Rotation": {
+                "x": -0.04873396,
+                "y": 0.008894874,
+                "z": 0.01481584,
+                "w": 0.9986623
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -119.9628,
+                    "y": 1.404341,
+                    "z": 180.0735
+                },
+                "size": {
+                    "x": 10.26085,
+                    "y": 16.80104,
+                    "z": 8.796432
+                }
+            }
+        },
+        {
+            "GoName": "Sakura_Pole_group01",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/Sakura_Pole_group01",
+            "Position": {
+                "x": -107.9518,
+                "y": -7.386226,
+                "z": 178.367
+            },
+            "Rotation": {
+                "x": -0.046446,
+                "y": 0.1362089,
+                "z": 0.02091118,
+                "w": 0.9893698
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -108.5559,
+                    "y": 0.4891796,
+                    "z": 177.2183
+                },
+                "size": {
+                    "x": 11.8201,
+                    "y": 16.80104,
+                    "z": 10.8051
+                }
+            }
+        },
+        {
+            "GoName": "Sakura_Pole_group01",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/Sakura_Pole_group01",
+            "Position": {
+                "x": -97.15575,
+                "y": -7.567617,
+                "z": 171.4956
+            },
+            "Rotation": {
+                "x": -0.04280442,
+                "y": 0.2823594,
+                "z": 0.0276096,
+                "w": 0.9579555
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -98.19865,
+                    "y": 0.3077908,
+                    "z": 170.5411
+                },
+                "size": {
+                    "x": 12.6637,
+                    "y": 16.80104,
+                    "z": 12.25671
+                }
+            }
+        },
+        {
+            "GoName": "Sakura_Pole_group01",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/Sakura_Pole_group01",
+            "Position": {
+                "x": -89.87114,
+                "y": -8.172656,
+                "z": 162.0705
+            },
+            "Rotation": {
+                "x": -0.04280442,
+                "y": 0.2823594,
+                "z": 0.0276096,
+                "w": 0.9579555
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -90.91405,
+                    "y": -0.2972507,
+                    "z": 161.116
+                },
+                "size": {
+                    "x": 12.6637,
+                    "y": 16.80104,
+                    "z": 12.25673
+                }
+            }
+        },
+        {
+            "GoName": "Sakura_Pole_group01",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/Sakura_Pole_group01",
+            "Position": {
+                "x": -110.6707,
+                "y": -4.046044,
+                "z": 128.538
+            },
+            "Rotation": {
+                "x": 0.03220885,
+                "y": 0.9205116,
+                "z": 0.03946009,
+                "w": -0.3873808
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -109.3592,
+                    "y": 3.829363,
+                    "z": 129.2912
+                },
+                "size": {
+                    "x": 12.55864,
+                    "y": 16.80104,
+                    "z": 12.63174
+                }
+            }
+        },
+        {
+            "GoName": "Sakura_Pole_group01",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/Sakura_Pole_group01",
+            "Position": {
+                "x": -111.2171,
+                "y": -2.855827,
+                "z": 122.0356
+            },
+            "Rotation": {
+                "x": -0.04989922,
+                "y": -0.4685762,
+                "z": -0.01022623,
+                "w": 0.8819534
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -110.2795,
+                    "y": 5.019579,
+                    "z": 120.9653
+                },
+                "size": {
+                    "x": 12.31784,
+                    "y": 16.80104,
+                    "z": 12.68063
+                }
+            }
+        },
+        {
+            "GoName": "Sakura_Pole_group01",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/Sakura_Pole_group01",
+            "Position": {
+                "x": -120.7441,
+                "y": -3.554787,
+                "z": 143.1205
+            },
+            "Rotation": {
+                "x": 0.03023106,
+                "y": 0.9384338,
+                "z": 0.04099502,
+                "w": -0.3416833
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -119.5435,
+                    "y": 4.32062,
+                    "z": 143.9676
+                },
+                "size": {
+                    "x": 12.68281,
+                    "y": 16.80104,
+                    "z": 12.54367
+                }
+            }
+        },
+        {
+            "GoName": "Sakura_Pole_group01",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/Sakura_Pole_group01",
+            "Position": {
+                "x": -142.8602,
+                "y": -3.232882,
+                "z": 149.7511
+            },
+            "Rotation": {
+                "x": 0.01216848,
+                "y": 0.9976909,
+                "z": 0.04946147,
+                "w": 0.04492696
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -142.8161,
+                    "y": 4.642523,
+                    "z": 151.2012
+                },
+                "size": {
+                    "x": 10.59865,
+                    "y": 16.80104,
+                    "z": 9.02124
+                }
+            }
+        },
+        {
+            "GoName": "Sakura_Pole_group01",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/Sakura_Pole_group01",
+            "Position": {
+                "x": -162.3414,
+                "y": -3.232882,
+                "z": 149.2231
+            },
+            "Rotation": {
+                "x": 0.006762939,
+                "y": 0.9870257,
+                "z": 0.05048536,
+                "w": 0.1522688
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -162.5654,
+                    "y": 4.642523,
+                    "z": 150.874
+                },
+                "size": {
+                    "x": 11.39795,
+                    "y": 16.80104,
+                    "z": 10.35889
+                }
+            }
+        },
+        {
+            "GoName": "Sakura_Pole_group01",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/Sakura_Pole_group01",
+            "Position": {
+                "x": -166.1297,
+                "y": -3.232882,
+                "z": 145.9214
+            },
+            "Rotation": {
+                "x": -0.0002428817,
+                "y": 0.9567146,
+                "z": 0.05093574,
+                "w": 0.2865357
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -166.6793,
+                    "y": 4.642523,
+                    "z": 147.4121
+                },
+                "size": {
+                    "x": 12.452,
+                    "y": 16.80104,
+                    "z": 11.968
+                }
+            }
+        },
+        {
+            "GoName": "Sakura_Pole_group01",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/Sakura_Pole_group01",
+            "Position": {
+                "x": -174.4889,
+                "y": -2.064037,
+                "z": 144.8372
+            },
+            "Rotation": {
+                "x": -0.01656027,
+                "y": 0.8143482,
+                "z": 0.04816914,
+                "w": 0.5781371
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -175.6051,
+                    "y": 5.811369,
+                    "z": 145.5386
+                },
+                "size": {
+                    "x": 11.19272,
+                    "y": 16.80104,
+                    "z": 12.08673
+                }
+            }
+        },
+        {
+            "GoName": "Sakura_Pole_group01",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/Sakura_Pole_group01",
+            "Position": {
+                "x": -169.3157,
+                "y": 1.375544,
+                "z": 124.0308
+            },
+            "Rotation": {
+                "x": -0.03795939,
+                "y": 0.4287125,
+                "z": 0.03396459,
+                "w": 0.902004
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -170.7182,
+                    "y": 9.250949,
+                    "z": 123.3707
+                },
+                "size": {
+                    "x": 12.33649,
+                    "y": 16.80104,
+                    "z": 12.60482
+                }
+            }
+        },
+        {
+            "GoName": "Sakura_Pole_group01",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/Sakura_Pole_group01",
+            "Position": {
+                "x": -164.4309,
+                "y": 1.878894,
+                "z": 114.8316
+            },
+            "Rotation": {
+                "x": -0.035851,
+                "y": 0.4821117,
+                "z": 0.03618307,
+                "w": 0.8746279
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -165.9362,
+                    "y": 9.754302,
+                    "z": 114.3031
+                },
+                "size": {
+                    "x": 11.88629,
+                    "y": 16.80104,
+                    "z": 12.40965
+                }
+            }
+        },
+        {
+            "GoName": "Sakura_Pole_group01",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/Sakura_Pole_group01",
+            "Position": {
+                "x": -159.4798,
+                "y": 1.958929,
+                "z": 106.7838
+            },
+            "Rotation": {
+                "x": -0.035851,
+                "y": 0.4821117,
+                "z": 0.03618307,
+                "w": 0.8746279
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -160.9851,
+                    "y": 9.834334,
+                    "z": 106.2553
+                },
+                "size": {
+                    "x": 11.88626,
+                    "y": 16.80104,
+                    "z": 12.40965
+                }
+            }
+        },
+        {
+            "GoName": "Sakura_Pole_group01",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/Sakura_Pole_group01",
+            "Position": {
+                "x": -153.2654,
+                "y": 2.627533,
+                "z": 96.63002
+            },
+            "Rotation": {
+                "x": -0.04337234,
+                "y": 0.2622681,
+                "z": 0.02670858,
+                "w": 0.9636498
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -154.2518,
+                    "y": 10.50294,
+                    "z": 95.64281
+                },
+                "size": {
+                    "x": 12.61304,
+                    "y": 16.80104,
+                    "z": 12.11776
+                }
+            }
+        },
+        {
+            "GoName": "Sakura_Pole_group01",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/Sakura_Pole_group01",
+            "Position": {
+                "x": -149.9419,
+                "y": 3.563268,
+                "z": 93.6822
+            },
+            "Rotation": {
+                "x": -0.05051562,
+                "y": -0.4025229,
+                "z": -0.006533052,
+                "w": 0.9139917
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -149.1347,
+                    "y": 11.43867,
+                    "z": 92.43193
+                },
+                "size": {
+                    "x": 12.59692,
+                    "y": 16.80104,
+                    "z": 12.64383
+                }
+            }
+        },
+        {
+            "GoName": "Sakura_Pole_group01",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/Sakura_Pole_group01",
+            "Position": {
+                "x": -139.9916,
+                "y": 1.122949,
+                "z": 106.2577
+            },
+            "Rotation": {
+                "x": -0.05010389,
+                "y": -0.4498627,
+                "z": -0.009171077,
+                "w": 0.891644
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -139.0894,
+                    "y": 8.998355,
+                    "z": 105.1331
+                },
+                "size": {
+                    "x": 12.42554,
+                    "y": 16.80104,
+                    "z": 12.69815
+                }
+            }
+        },
+        {
+            "GoName": "Sakura_Pole_group01",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/Sakura_Pole_group01",
+            "Position": {
+                "x": -128.1787,
+                "y": -0.7492878,
+                "z": 115.2578
+            },
+            "Rotation": {
+                "x": -0.0508389,
+                "y": -0.3406577,
+                "z": -0.003148811,
+                "w": 0.9388066
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -127.5052,
+                    "y": 7.126118,
+                    "z": 113.8674
+                },
+                "size": {
+                    "x": 12.61488,
+                    "y": 16.80104,
+                    "z": 12.37387
+                }
+            }
+        },
+        {
+            "GoName": "Sakura_Pole_group01",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/Sakura_Pole_group01",
+            "Position": {
+                "x": -120.2944,
+                "y": -2.173425,
+                "z": 120.8343
+            },
+            "Rotation": {
+                "x": -0.05076385,
+                "y": -0.3597901,
+                "z": -0.004188086,
+                "w": 0.9316419
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -119.5786,
+                    "y": 5.701982,
+                    "z": 119.4843
+                },
+                "size": {
+                    "x": 12.6333,
+                    "y": 16.80104,
+                    "z": 12.48032
+                }
+            }
+        },
+        {
+            "GoName": "Sakura_Pole_group01",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/Sakura_Pole_group01",
+            "Position": {
+                "x": -87.85915,
+                "y": 8.654338,
+                "z": -14.40694
+            },
+            "Rotation": {
+                "x": 3.217611E-17,
+                "y": 0.91922,
+                "z": -3.217611E-17,
+                "w": -0.3937443
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -87.25436,
+                    "y": 16.65753,
+                    "z": -14.038
+                },
+                "size": {
+                    "x": 11.12539,
+                    "y": 16.00639,
+                    "z": 11.89889
+                }
+            }
+        },
+        {
+            "GoName": "Sakura_Pole_group01",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/Sakura_Pole_group01",
+            "Position": {
+                "x": -134.7979,
+                "y": 5.006415,
+                "z": 27.63034
+            },
+            "Rotation": {
+                "x": 6.272073E-17,
+                "y": 0.9996971,
+                "z": -6.272073E-17,
+                "w": 0.02461002
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -134.8937,
+                    "y": 13.00961,
+                    "z": 28.1918
+                },
+                "size": {
+                    "x": 10.01604,
+                    "y": 16.00639,
+                    "z": 7.291477
+                }
+            }
+        },
+        {
+            "GoName": "Sakura_Pole_group01",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/Sakura_Pole_group01",
+            "Position": {
+                "x": -196.2675,
+                "y": -3.850362,
+                "z": 174.8413
+            },
+            "Rotation": {
+                "x": -0.04856033,
+                "y": -0.3585802,
+                "z": -0.01537539,
+                "w": 0.9321082
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -195.3996,
+                    "y": 4.051338,
+                    "z": 173.5859
+                },
+                "size": {
+                    "x": 12.93134,
+                    "y": 16.67,
+                    "z": 12.29218
+                }
+            }
+        },
+        {
+            "GoName": "Sakura_Pole_group01",
+            "PrefabPath": "Stage/Stage_Sakura_Streaming/Prefab/BamboosAM/Sakura_Pole_group01",
+            "Position": {
+                "x": -176.9441,
+                "y": -2.064037,
+                "z": 135.8698
+            },
+            "Rotation": {
+                "x": -0.003776358,
+                "y": 0.640706,
+                "z": 0.05079614,
+                "w": 0.7660949
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "MeshBounds": {
+                "center": {
+                    "x": -178.4563,
+                    "y": 5.83881,
+                    "z": 136.1904
+                },
+                "size": {
+                    "x": 9.085251,
+                    "y": 17.06528,
+                    "z": 11.72359
+                }
+            }
+        }
+    ]
+}

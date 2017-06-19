@@ -1,0 +1,46 @@
+{
+	"Default" : 
+ 	{
+		"$type" : "ConfigGraphicsVolatileSetting",
+		"PostFXGrade" : "High",
+		"UsePostFX" : true,
+		"UseHDR" : true,
+		"UseDistortion" : true,
+		"UseReflection" : true,
+		"UseFXAA" : false,
+		"UseDynamicBone" : true,
+		"UseStaticCloud" : false,
+	},
+	"Topmost" : 
+ 	{
+		"UseFXAA" : true,
+	},
+	"High" : 
+ 	{
+		"UseFXAA" : true,
+	},
+	"Middle" : 
+ 	{
+		"PostFXGrade" : "Low",
+		"UseDistortion" : false,
+		"UseReflection" : false,
+	},
+	"Low" : 
+ 	{
+ 		"PostFXGrade" : "Low",
+ 		"UseDistortion" : false,
+		"UseReflection" : false,
+		"UseDynamicBone" : false,
+		"UseStaticCloud" : true,
+	},
+	"Off" : 
+ 	{
+ 		"PostFXGrade" : "Low",
+		"UsePostFX" : false,
+		"UseHDR" : false,
+		"UseDistortion" : false,
+		"UseReflection" : false,
+		"UseDynamicBone" : false,
+		"UseStaticCloud" : true,
+	},
+}
